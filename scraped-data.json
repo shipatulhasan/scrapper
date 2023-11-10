@@ -1,602 +1,1949 @@
 [
   {
     "name": "BTCUSDT.P",
-    "close": "36549.3"
+    "close": "36541.3",
+    "change": "−0.46%",
+    "changeAbs": "−167.9",
+    "high": "36940.6",
+    "low": "36350.0",
+    "volume": "80.749K",
+    "vol24h": "24.145B",
+    "vol24hChange": "38.43%",
+    "signal": "Buy",
+    "exchange": "BINANCE"
   },
   {
     "name": "ETHUSDT.P",
-    "close": "2100.60"
+    "close": "2101.84",
+    "change": "−0.97%",
+    "changeAbs": "−20.56",
+    "high": "2139.60",
+    "low": "2084.31",
+    "volume": "1.611M",
+    "vol24h": "16.999B",
+    "vol24hChange": "239.54%",
+    "signal": "Buy",
+    "exchange": "BINANCE"
   },
   {
     "name": "ETHUSDT.P",
-    "close": "2099.33"
+    "close": "2099.98",
+    "change": "−0.97%",
+    "changeAbs": "−20.57",
+    "high": "2137.90",
+    "low": "2083.22",
+    "volume": "2.614B",
+    "vol24h": "12.274B",
+    "vol24hChange": "205.62%",
+    "signal": "Buy",
+    "exchange": "OKX"
   },
   {
     "name": "BTCUSDT.P",
-    "close": "36565.7"
+    "close": "36562.3",
+    "change": "−0.44%",
+    "changeAbs": "−160.9",
+    "high": "36955.0",
+    "low": "36360.0",
+    "volume": "34.314K",
+    "vol24h": "10.537B",
+    "vol24hChange": "38.25%",
+    "signal": "Buy",
+    "exchange": "BYBIT"
   },
   {
     "name": "BTCUSDT.P",
-    "close": "36530.5"
+    "close": "36533.3",
+    "change": "−0.46%",
+    "changeAbs": "−169.0",
+    "high": "36925.0",
+    "low": "36331.6",
+    "volume": "1.338B",
+    "vol24h": "10.429B",
+    "vol24hChange": "43.36%",
+    "signal": "Buy",
+    "exchange": "OKX"
   },
   {
     "name": "ETHUSDT.P",
-    "close": "2100.54"
+    "close": "2101.29",
+    "change": "−1.00%",
+    "changeAbs": "−21.12",
+    "high": "2139.99",
+    "low": "2082.75",
+    "volume": "514.796K",
+    "vol24h": "5.596B",
+    "vol24hChange": "295.67%",
+    "signal": "Buy",
+    "exchange": "BYBIT"
   },
   {
     "name": "BTCUSDT.P",
-    "close": "36543.2"
+    "close": "36540.7",
+    "change": "−0.44%",
+    "changeAbs": "−162.9",
+    "high": "36930.8",
+    "low": "36339.2",
+    "volume": "22.429K",
+    "vol24h": "5.326B",
+    "vol24hChange": "40.78%",
+    "signal": "Buy",
+    "exchange": "BITGET"
   },
   {
     "name": "GASUSDT.P",
-    "close": "27.074"
+    "close": "27.719",
+    "change": "28.35%",
+    "changeAbs": "6.122",
+    "high": "28.995",
+    "low": "20.744",
+    "volume": "70.121M",
+    "vol24h": "4.333B",
+    "vol24hChange": "112.68%",
+    "signal": "Strong Buy",
+    "exchange": "BINANCE"
   },
   {
     "name": "SOLUSDT.P",
-    "close": "47.236"
+    "close": "47.138",
+    "change": "4.09%",
+    "changeAbs": "1.854",
+    "high": "48.999",
+    "low": "45.055",
+    "volume": "19.085M",
+    "vol24h": "3.783B",
+    "vol24hChange": "146.77%",
+    "signal": "Buy",
+    "exchange": "BINANCE"
   },
   {
     "name": "ETHUSDT.P",
-    "close": "2099.38"
+    "close": "2099.75",
+    "change": "−1.07%",
+    "changeAbs": "−22.63",
+    "high": "2138.54",
+    "low": "2083.55",
+    "volume": "416.879K",
+    "vol24h": "3.603B",
+    "vol24hChange": "149.83%",
+    "signal": "Buy",
+    "exchange": "BITGET"
   },
   {
     "name": "BTCUSDT",
-    "close": "36516.01"
+    "close": "36521.11",
+    "change": "−0.45%",
+    "changeAbs": "−166.29",
+    "high": "36919.06",
+    "low": "36324.71",
+    "volume": "13.816K",
+    "vol24h": "2.689B",
+    "vol24hChange": "50.11%",
+    "signal": "Buy",
+    "exchange": "BINANCE"
   },
   {
     "name": "BTCUSDT.P",
-    "close": "36558.8"
+    "close": "36567.6",
+    "change": "−0.45%",
+    "changeAbs": "−165.8",
+    "high": "36944.2",
+    "low": "36353.0",
+    "volume": "7.6K",
+    "vol24h": "2.384B",
+    "vol24hChange": "129.75%",
+    "signal": "Buy",
+    "exchange": "WHITEBIT"
   },
   {
     "name": "ETHUSDT",
-    "close": "2097.99"
+    "close": "2099.24",
+    "change": "−0.97%",
+    "changeAbs": "−20.56",
+    "high": "2136.99",
+    "low": "2082.27",
+    "volume": "256.336K",
+    "vol24h": "2.376B",
+    "vol24hChange": "232.46%",
+    "signal": "Buy",
+    "exchange": "BINANCE"
   },
   {
     "name": "TRBUSDT.P",
-    "close": "95.284"
+    "close": "94.573",
+    "change": "−9.71%",
+    "changeAbs": "−10.176",
+    "high": "105.421",
+    "low": "91.775",
+    "volume": "4.846M",
+    "vol24h": "2.261B",
+    "vol24hChange": "177.17%",
+    "signal": "Neutral",
+    "exchange": "BINANCE"
   },
   {
     "name": "XRPUSDT.P",
-    "close": "0.6530"
+    "close": "0.6536",
+    "change": "−2.05%",
+    "changeAbs": "−0.0137",
+    "high": "0.6720",
+    "low": "0.6451",
+    "volume": "474.522M",
+    "vol24h": "1.713B",
+    "vol24hChange": "72.78%",
+    "signal": "Buy",
+    "exchange": "BINANCE"
   },
   {
     "name": "BTCUSDT.P",
-    "close": "36508.0"
+    "close": "36511.0",
+    "change": "−0.45%",
+    "changeAbs": "−166.5",
+    "high": "36902.0",
+    "low": "36310.0",
+    "volume": "214.211M",
+    "vol24h": "1.669B",
+    "vol24hChange": "58.51%",
+    "signal": "Buy",
+    "exchange": "BLOFIN"
   },
   {
     "name": "SOLUSDT.P",
-    "close": "47.320"
+    "close": "47.215",
+    "change": "4.27%",
+    "changeAbs": "1.935",
+    "high": "48.989",
+    "low": "45.077",
+    "volume": "7.756M",
+    "vol24h": "1.593B",
+    "vol24hChange": "138.86%",
+    "signal": "Buy",
+    "exchange": "BYBIT"
   },
   {
     "name": "GASUSDT.P",
-    "close": "26.650"
+    "close": "27.230",
+    "change": "26.15%",
+    "changeAbs": "5.645",
+    "high": "28.500",
+    "low": "20.739",
+    "volume": "628.752M",
+    "vol24h": "1.466B",
+    "vol24hChange": "135.56%",
+    "signal": "Strong Buy",
+    "exchange": "OKX"
   },
   {
     "name": "ETHUSDT.P",
-    "close": "2100.46"
+    "close": "2101.52",
+    "change": "−0.97%",
+    "changeAbs": "−20.51",
+    "high": "2138.68",
+    "low": "2085.16",
+    "volume": "105.239K",
+    "vol24h": "1.44B",
+    "vol24hChange": "409.51%",
+    "signal": "Buy",
+    "exchange": "WHITEBIT"
   },
   {
     "name": "ORDIUSDT.P",
-    "close": "20.294"
+    "close": "20.439",
+    "change": "6.10%",
+    "changeAbs": "1.176",
+    "high": "21.885",
+    "low": "18.452",
+    "volume": "19.915M",
+    "vol24h": "1.361B",
+    "vol24hChange": "77.78%",
+    "exchange": "BINANCE"
   },
   {
     "name": "BTCUSD.P",
-    "close": "36560.5"
+    "close": "36561.0",
+    "change": "−0.46%",
+    "changeAbs": "−170.0",
+    "high": "36960.0",
+    "low": "36361.5",
+    "volume": "155.699M",
+    "vol24h": "1.341B",
+    "vol24hChange": "34.45%",
+    "signal": "Buy",
+    "exchange": "BYBIT"
   },
   {
     "name": "LINKUSDT.P",
-    "close": "14.672"
+    "close": "14.611",
+    "change": "0.03%",
+    "changeAbs": "0.004",
+    "high": "14.960",
+    "low": "14.124",
+    "volume": "17.811M",
+    "vol24h": "1.314B",
+    "vol24hChange": "27.27%",
+    "signal": "Buy",
+    "exchange": "BINANCE"
   },
   {
     "name": "GASUSDT.P",
-    "close": "27.175"
+    "close": "27.752",
+    "change": "28.16%",
+    "changeAbs": "6.098",
+    "high": "29.033",
+    "low": "20.700",
+    "volume": "22.105M",
+    "vol24h": "1.299B",
+    "vol24hChange": "151.60%",
+    "signal": "Strong Buy",
+    "exchange": "BYBIT"
   },
   {
     "name": "TRBUSDT.P",
-    "close": "95.660"
+    "close": "94.730",
+    "change": "−10.51%",
+    "changeAbs": "−11.124",
+    "high": "105.780",
+    "low": "91.550",
+    "volume": "300.853M",
+    "vol24h": "1.287B",
+    "vol24hChange": "138.77%",
+    "signal": "Neutral",
+    "exchange": "OKX"
   },
   {
     "name": "STORJUSDT.P",
-    "close": "0.8564"
-  },
-  {
-    "name": "BTCUSD.P",
-    "close": "36547.5"
+    "close": "0.8549",
+    "change": "9.02%",
+    "changeAbs": "0.0707",
+    "high": "0.9575",
+    "low": "0.7589",
+    "volume": "385.076M",
+    "vol24h": "1.268B",
+    "vol24hChange": "1.96%",
+    "signal": "Strong Buy",
+    "exchange": "BINANCE"
   },
   {
     "name": "ORDIUSDT.P",
-    "close": "20.181"
-  },
-  {
-    "name": "ETHUSD.P",
-    "close": "2099.1"
+    "close": "20.412",
+    "change": "6.09%",
+    "changeAbs": "1.172",
+    "high": "21.828",
+    "low": "18.302",
+    "volume": "369.131M",
+    "vol24h": "1.241B",
+    "vol24hChange": "82.91%",
+    "signal": "Strong Buy",
+    "exchange": "OKX"
   },
   {
     "name": "BTCUSD.P",
-    "close": "36527.4"
+    "close": "36549.5",
+    "change": "0.01%",
+    "changeAbs": "2.0",
+    "high": "36559.5",
+    "low": "36526.5",
+    "volume": "1.993M",
+    "vol24h": "1.24B",
+    "vol24hChange": "91.53%",
+    "signal": "Buy",
+    "exchange": "DERIBIT"
   },
   {
     "name": "ETHUSD.P",
-    "close": "2099.06"
+    "close": "2099.8",
+    "change": "−1.01%",
+    "changeAbs": "−21.5",
+    "high": "2138.1",
+    "low": "2085.0",
+    "volume": "110.795K",
+    "vol24h": "1.218B",
+    "vol24hChange": "175.58%",
+    "signal": "Buy",
+    "exchange": "DYDX"
+  },
+  {
+    "name": "BTCUSD.P",
+    "close": "36517.4",
+    "change": "−0.51%",
+    "changeAbs": "−187.0",
+    "high": "36939.2",
+    "low": "36333.0",
+    "volume": "125.891M",
+    "vol24h": "1.176B",
+    "vol24hChange": "63.69%",
+    "signal": "Buy",
+    "exchange": "OKX"
+  },
+  {
+    "name": "ETHUSD.P",
+    "close": "2099.56",
+    "change": "−0.97%",
+    "changeAbs": "−20.48",
+    "high": "2137.80",
+    "low": "2083.51",
+    "volume": "230.355M",
+    "vol24h": "1.163B",
+    "vol24hChange": "265.14%",
+    "signal": "Buy",
+    "exchange": "OKX"
   },
   {
     "name": "GASKRW",
-    "close": "37450.0"
+    "close": "38140.0",
+    "change": "31.02%",
+    "changeAbs": "9030.0",
+    "high": "40150.0",
+    "low": "28110.0",
+    "volume": "22.93M",
+    "vol24h": "1.161B",
+    "vol24hChange": "160.42%",
+    "signal": "Strong Buy",
+    "exchange": "UPBIT"
   },
   {
     "name": "ETHUSDT.P",
-    "close": "2098.90"
+    "close": "2100.45",
+    "change": "−0.91%",
+    "changeAbs": "−19.25",
+    "high": "2136.90",
+    "low": "2082.85",
+    "volume": "263.215M",
+    "vol24h": "1.112B",
+    "vol24hChange": "148.91%",
+    "signal": "Buy",
+    "exchange": "BLOFIN"
   },
   {
     "name": "SOLUSDT.P",
-    "close": "47.270"
+    "close": "47.190",
+    "change": "4.25%",
+    "changeAbs": "1.922",
+    "high": "48.990",
+    "low": "45.054",
+    "volume": "249.709M",
+    "vol24h": "1.099B",
+    "vol24hChange": "134.55%",
+    "signal": "Buy",
+    "exchange": "OKX"
   },
   {
     "name": "ETHUSD.P",
-    "close": "2099.50"
+    "close": "2100.35",
+    "change": "0.04%",
+    "changeAbs": "0.90",
+    "high": "2101.15",
+    "low": "2098.80",
+    "volume": "1.6M",
+    "vol24h": "1.093B",
+    "vol24hChange": "392.64%",
+    "signal": "Buy",
+    "exchange": "DERIBIT"
   },
   {
     "name": "BTCUSDT",
-    "close": "36515.9"
+    "close": "36520.3",
+    "change": "−0.46%",
+    "changeAbs": "−170.2",
+    "high": "36916.9",
+    "low": "36322.3",
+    "volume": "3.57K",
+    "vol24h": "1.075B",
+    "vol24hChange": "60.17%",
+    "signal": "Buy",
+    "exchange": "OKX"
   },
   {
     "name": "ETHUSDT",
-    "close": "2098.21"
+    "close": "2099.20",
+    "change": "−0.99%",
+    "changeAbs": "−20.96",
+    "high": "2136.68",
+    "low": "2082.00",
+    "volume": "101.357K",
+    "vol24h": "1.069B",
+    "vol24hChange": "306.64%",
+    "signal": "Buy",
+    "exchange": "OKX"
   },
   {
     "name": "BTCUSDT",
-    "close": "36510.48"
+    "close": "36502.79",
+    "change": "−1.60%",
+    "changeAbs": "−592.02",
+    "high": "37211.10",
+    "low": "35753.99",
+    "volume": "16.727K",
+    "vol24h": "1.028B",
+    "vol24hChange": "28.22%",
+    "signal": "Buy",
+    "exchange": "BITRUE"
   },
   {
     "name": "BTCUSD.P",
-    "close": "36532"
+    "close": "36520",
+    "change": "−0.56%",
+    "changeAbs": "−207",
+    "high": "36937",
+    "low": "36341",
+    "volume": "3.443K",
+    "vol24h": "938.966M",
+    "vol24hChange": "22.04%",
+    "signal": "Buy",
+    "exchange": "DYDX"
   },
   {
     "name": "DOGEUSDT.P",
-    "close": "0.07406"
-  },
-  {
-    "name": "1000PEPEUSDT.P",
-    "close": "0.0012867"
+    "close": "0.07410",
+    "change": "0.72%",
+    "changeAbs": "0.00053",
+    "high": "0.07500",
+    "low": "0.07314",
+    "volume": "2.22B",
+    "vol24h": "884.345M",
+    "vol24hChange": "64.75%",
+    "signal": "Buy",
+    "exchange": "BINANCE"
   },
   {
     "name": "HIFIUSDT.P",
-    "close": "1.1798"
+    "close": "1.1605",
+    "change": "27.42%",
+    "changeAbs": "0.2497",
+    "high": "1.2368",
+    "low": "0.8718",
+    "volume": "366.395M",
+    "vol24h": "848.105M",
+    "vol24hChange": "678.04%",
+    "signal": "Strong Buy",
+    "exchange": "BINANCE"
+  },
+  {
+    "name": "1000PEPEUSDT.P",
+    "close": "0.0012881",
+    "change": "−3.46%",
+    "changeAbs": "−0.0000462",
+    "high": "0.0013677",
+    "low": "0.0012587",
+    "volume": "116.777B",
+    "vol24h": "841.657M",
+    "vol24hChange": "121.98%",
+    "signal": "Buy",
+    "exchange": "BINANCE"
   },
   {
     "name": "BTCUSDT",
-    "close": "36511.82"
+    "close": "36520.49",
+    "change": "−0.46%",
+    "changeAbs": "−170.02",
+    "high": "36915.10",
+    "low": "36327.76",
+    "volume": "8.251K",
+    "vol24h": "841.003M",
+    "vol24hChange": "76.76%",
+    "signal": "Buy",
+    "exchange": "BITGET"
   },
   {
     "name": "XRPUSDT.P",
-    "close": "0.6532"
+    "close": "0.6539",
+    "change": "−2.04%",
+    "changeAbs": "−0.0136",
+    "high": "0.6720",
+    "low": "0.6450",
+    "volume": "190.083M",
+    "vol24h": "832.34M",
+    "vol24hChange": "69.20%",
+    "signal": "Buy",
+    "exchange": "BYBIT"
   },
   {
     "name": "BTCUSD",
-    "close": "36521.30"
+    "close": "36524.33",
+    "change": "−0.46%",
+    "changeAbs": "−169.81",
+    "high": "36915.69",
+    "low": "36334.46",
+    "volume": "3.018K",
+    "vol24h": "793.769M",
+    "vol24hChange": "21.30%",
+    "signal": "Buy",
+    "exchange": "COINBASE"
   },
   {
     "name": "BTCBUSD.P",
-    "close": "36555.9"
+    "close": "36539.7",
+    "change": "−0.49%",
+    "changeAbs": "−181.7",
+    "high": "36937.0",
+    "low": "36369.4",
+    "volume": "2.928K",
+    "vol24h": "782.784M",
+    "vol24hChange": "28.89%",
+    "signal": "Buy",
+    "exchange": "BINANCE"
   },
   {
     "name": "ETHUSDT",
-    "close": "2098.17"
+    "close": "2099.20",
+    "change": "−0.99%",
+    "changeAbs": "−20.99",
+    "high": "2136.54",
+    "low": "2082.17",
+    "volume": "75.838K",
+    "vol24h": "752.482M",
+    "vol24hChange": "345.48%",
+    "signal": "Buy",
+    "exchange": "BYBIT"
   },
   {
     "name": "ETCUSDT.P",
-    "close": "21.222"
+    "close": "21.193",
+    "change": "2.33%",
+    "changeAbs": "0.482",
+    "high": "21.859",
+    "low": "20.702",
+    "volume": "12.819M",
+    "vol24h": "737.395M",
+    "vol24hChange": "466.76%",
+    "signal": "Buy",
+    "exchange": "BINANCE"
   },
   {
     "name": "MATICUSDT.P",
-    "close": "0.8251"
+    "close": "0.8243",
+    "change": "−3.56%",
+    "changeAbs": "−0.0304",
+    "high": "0.8623",
+    "low": "0.8138",
+    "volume": "186.55M",
+    "vol24h": "719.611M",
+    "vol24hChange": "39.32%",
+    "signal": "Buy",
+    "exchange": "BINANCE"
   },
   {
     "name": "BTCUSDT",
-    "close": "36517.39"
+    "close": "36520.37",
+    "change": "−0.46%",
+    "changeAbs": "−167.92",
+    "high": "36913.90",
+    "low": "36322.54",
+    "volume": "2.343K",
+    "vol24h": "700.73M",
+    "vol24hChange": "49.22%",
+    "signal": "Buy",
+    "exchange": "BYBIT"
   },
   {
     "name": "USDCUSDT",
-    "close": "0.9999"
+    "close": "0.9999",
+    "change": "0.01%",
+    "changeAbs": "0.0001",
+    "high": "1.0000",
+    "low": "0.9997",
+    "volume": "189.728M",
+    "vol24h": "688.219M",
+    "vol24hChange": "61.69%",
+    "signal": "Buy",
+    "exchange": "BINANCE"
   },
   {
     "name": "ARBUSDT.P",
-    "close": "1.1671"
+    "close": "1.1672",
+    "change": "−3.39%",
+    "changeAbs": "−0.0409",
+    "high": "1.2265",
+    "low": "1.1485",
+    "volume": "134.314M",
+    "vol24h": "674.77M",
+    "vol24hChange": "223.22%",
+    "signal": "Buy",
+    "exchange": "BINANCE"
   },
   {
     "name": "OPUSDT.P",
-    "close": "1.7193"
+    "close": "1.7208",
+    "change": "−1.33%",
+    "changeAbs": "−0.0232",
+    "high": "1.8093",
+    "low": "1.6845",
+    "volume": "111.412M",
+    "vol24h": "651.075M",
+    "vol24hChange": "373.28%",
+    "signal": "Strong Buy",
+    "exchange": "BINANCE"
   },
   {
     "name": "BNBUSDT.P",
-    "close": "252.62"
+    "close": "252.81",
+    "change": "0.41%",
+    "changeAbs": "1.04",
+    "high": "258.31",
+    "low": "249.53",
+    "volume": "780.806K",
+    "vol24h": "628.461M",
+    "vol24hChange": "94.72%",
+    "signal": "Buy",
+    "exchange": "BINANCE"
   },
   {
     "name": "TRBUSDT.P",
-    "close": "95.280"
+    "close": "94.385",
+    "change": "−9.83%",
+    "changeAbs": "−10.295",
+    "high": "105.153",
+    "low": "91.372",
+    "volume": "1.43M",
+    "vol24h": "608.164M",
+    "vol24hChange": "204.03%",
+    "signal": "Neutral",
+    "exchange": "BYBIT"
   },
   {
     "name": "SOLUSDT",
-    "close": "47.20"
+    "close": "47.13",
+    "change": "4.11%",
+    "changeAbs": "1.86",
+    "high": "48.87",
+    "low": "45.05",
+    "volume": "3.358M",
+    "vol24h": "597.154M",
+    "vol24hChange": "121.60%",
+    "signal": "Buy",
+    "exchange": "BINANCE"
   },
   {
     "name": "ETHUSDT",
-    "close": "2098.61"
+    "close": "2099.30",
+    "change": "−0.97%",
+    "changeAbs": "−20.49",
+    "high": "2136.22",
+    "low": "2082.41",
+    "volume": "38.34K",
+    "vol24h": "593.199M",
+    "vol24hChange": "625.36%",
+    "signal": "Buy",
+    "exchange": "WHITEBIT"
   },
   {
     "name": "SOLUSDT.P",
-    "close": "47.240"
+    "close": "47.210",
+    "change": "4.12%",
+    "changeAbs": "1.870",
+    "high": "48.995",
+    "low": "45.125",
+    "volume": "136.031M",
+    "vol24h": "567.368M",
+    "vol24hChange": "95.96%",
+    "signal": "Buy",
+    "exchange": "BLOFIN"
   },
   {
     "name": "NEOUSDT.P",
-    "close": "13.942"
+    "close": "13.911",
+    "change": "8.90%",
+    "changeAbs": "1.137",
+    "high": "15.015",
+    "low": "12.502",
+    "volume": "12.418M",
+    "vol24h": "547.912M",
+    "vol24hChange": "200.77%",
+    "signal": "Strong Buy",
+    "exchange": "BINANCE"
   },
   {
     "name": "ETHUSD",
-    "close": "2098.67"
+    "close": "2099.43",
+    "change": "−1.02%",
+    "changeAbs": "−21.64",
+    "high": "2136.53",
+    "low": "2082.88",
+    "volume": "51.033K",
+    "vol24h": "542.353M",
+    "vol24hChange": "168.09%",
+    "signal": "Buy",
+    "exchange": "COINBASE"
   },
   {
     "name": "GALAUSDT.P",
-    "close": "0.02328"
+    "close": "0.02327",
+    "change": "−2.64%",
+    "changeAbs": "−0.00063",
+    "high": "0.02474",
+    "low": "0.02273",
+    "volume": "4.677B",
+    "vol24h": "533.239M",
+    "vol24hChange": "37.05%",
+    "signal": "Buy",
+    "exchange": "BINANCE"
   },
   {
     "name": "XRPUSDT",
-    "close": "0.6522"
+    "close": "0.6532",
+    "change": "−2.00%",
+    "changeAbs": "−0.0133",
+    "high": "0.6711",
+    "low": "0.6450",
+    "volume": "175.955M",
+    "vol24h": "518.317M",
+    "vol24hChange": "80.86%",
+    "signal": "Buy",
+    "exchange": "BINANCE"
   },
   {
     "name": "ADAUSDT.P",
-    "close": "0.3773"
+    "close": "0.3762",
+    "change": "2.17%",
+    "changeAbs": "0.0080",
+    "high": "0.3775",
+    "low": "0.3662",
+    "volume": "325.214M",
+    "vol24h": "517.727M",
+    "vol24hChange": "140.72%",
+    "signal": "Strong Buy",
+    "exchange": "BINANCE"
   },
   {
     "name": "LINKUSDT.P",
-    "close": "14.636"
+    "close": "14.620",
+    "change": "0.13%",
+    "changeAbs": "0.019",
+    "high": "14.963",
+    "low": "14.120",
+    "volume": "103.289M",
+    "vol24h": "502.867M",
+    "vol24hChange": "36.69%",
+    "signal": "Buy",
+    "exchange": "OKX"
   },
   {
     "name": "XRPUSDT.P",
-    "close": "0.65270"
+    "close": "0.65340",
+    "change": "−2.01%",
+    "changeAbs": "−0.01343",
+    "high": "0.67170",
+    "low": "0.64420",
+    "volume": "94.894M",
+    "vol24h": "498.84M",
+    "vol24hChange": "65.77%",
+    "signal": "Buy",
+    "exchange": "OKX"
   },
   {
     "name": "HIFIKRW",
-    "close": "1590.0"
+    "close": "1560.0",
+    "change": "26.83%",
+    "changeAbs": "330.0",
+    "high": "1655.0",
+    "low": "1165.0",
+    "volume": "230.691M",
+    "vol24h": "491.632M",
+    "vol24hChange": "540.63%",
+    "signal": "Strong Buy",
+    "exchange": "UPBIT"
   },
   {
     "name": "BCHUSDT.P",
-    "close": "238.25"
+    "close": "238.43",
+    "change": "−0.62%",
+    "changeAbs": "−1.48",
+    "high": "242.57",
+    "low": "235.32",
+    "volume": "377.335K",
+    "vol24h": "487.008M",
+    "vol24hChange": "89.82%",
+    "signal": "Neutral",
+    "exchange": "BINANCE"
   },
   {
     "name": "ETHBUSD.P",
-    "close": "2100.75"
+    "close": "2101.48",
+    "change": "−0.97%",
+    "changeAbs": "−20.66",
+    "high": "2139.61",
+    "low": "2086.00",
+    "volume": "43.365K",
+    "vol24h": "484.374M",
+    "vol24hChange": "174.88%",
+    "signal": "Buy",
+    "exchange": "BINANCE"
   },
   {
     "name": "LTCUSDT.P",
-    "close": "72.75"
+    "close": "72.77",
+    "change": "−1.56%",
+    "changeAbs": "−1.15",
+    "high": "75.56",
+    "low": "71.77",
+    "volume": "1.488M",
+    "vol24h": "476.361M",
+    "vol24hChange": "146.20%",
+    "signal": "Buy",
+    "exchange": "BINANCE"
   },
   {
     "name": "XRPKRW",
-    "close": "878.0"
+    "close": "879.0",
+    "change": "−2.01%",
+    "changeAbs": "−18.0",
+    "high": "899.0",
+    "low": "868.0",
+    "volume": "189.198M",
+    "vol24h": "461.468M",
+    "vol24hChange": "102.70%",
+    "signal": "Buy",
+    "exchange": "UPBIT"
+  },
+  {
+    "name": "LINKUSDT.P",
+    "close": "14.630",
+    "change": "0.10%",
+    "changeAbs": "0.015",
+    "high": "14.968",
+    "low": "14.125",
+    "volume": "5.924M",
+    "vol24h": "454.885M",
+    "vol24hChange": "24.46%",
+    "signal": "Buy",
+    "exchange": "BYBIT"
+  },
+  {
+    "name": "ETHUSDT",
+    "close": "2099.19",
+    "change": "3.09%",
+    "changeAbs": "62.90",
+    "high": "2136.99",
+    "low": "1977.67",
+    "volume": "159.986K",
+    "vol24h": "454.499M",
+    "vol24hChange": "142.03%",
+    "signal": "Strong Buy",
+    "exchange": "BITRUE"
   },
   {
     "name": "1000PEPEUSDT.P",
-    "close": "0.0012871"
-  },
-  {
-    "name": "ETHUSDT",
-    "close": "2097.97"
-  },
-  {
-    "name": "LINKUSDT.P",
-    "close": "14.661"
-  },
-  {
-    "name": "ETHUSDC",
-    "close": "2098.57"
+    "close": "0.0012885",
+    "change": "−3.43%",
+    "changeAbs": "−0.0000457",
+    "high": "0.0013689",
+    "low": "0.0012573",
+    "volume": "66.511B",
+    "vol24h": "454.165M",
+    "vol24hChange": "116.44%",
+    "signal": "Buy",
+    "exchange": "BYBIT"
   },
   {
     "name": "LDOUSDT.P",
-    "close": "2.3937"
+    "close": "2.4027",
+    "change": "3.40%",
+    "changeAbs": "0.0789",
+    "high": "2.4570",
+    "low": "2.2780",
+    "volume": "42.479M",
+    "vol24h": "452.524M",
+    "vol24hChange": "552.71%",
+    "signal": "Strong Buy",
+    "exchange": "BINANCE"
+  },
+  {
+    "name": "ETHUSDC",
+    "close": "2099.74",
+    "change": "−0.99%",
+    "changeAbs": "−20.89",
+    "high": "2136.89",
+    "low": "2082.30",
+    "volume": "53.76K",
+    "vol24h": "450.124M",
+    "vol24hChange": "121.26%",
+    "signal": "Buy",
+    "exchange": "BYBIT"
   },
   {
     "name": "BTCUSDT",
-    "close": "36515.0"
+    "close": "36500.4",
+    "change": "−0.55%",
+    "changeAbs": "−202.9",
+    "high": "36915.1",
+    "low": "36317.8",
+    "volume": "1.722K",
+    "vol24h": "440.613M",
+    "vol24hChange": "37.40%",
+    "signal": "Buy",
+    "exchange": "GATEIO"
   },
   {
     "name": "DOGEUSDT.P",
-    "close": "0.07402"
+    "close": "0.07410",
+    "change": "0.76%",
+    "changeAbs": "0.00056",
+    "high": "0.07498",
+    "low": "0.07312",
+    "volume": "80.61M",
+    "vol24h": "425.319M",
+    "vol24hChange": "70.40%",
+    "signal": "Buy",
+    "exchange": "OKX"
   },
   {
     "name": "ETHUSDT",
-    "close": "2098.15"
+    "close": "2098.28",
+    "change": "−1.03%",
+    "changeAbs": "−21.83",
+    "high": "2136.42",
+    "low": "2082.49",
+    "volume": "44.04K",
+    "vol24h": "411.206M",
+    "vol24hChange": "121.30%",
+    "signal": "Buy",
+    "exchange": "GATEIO"
   },
   {
     "name": "STORJUSDT.P",
-    "close": "0.8540"
+    "close": "0.8605",
+    "change": "9.69%",
+    "changeAbs": "0.0760",
+    "high": "0.9580",
+    "low": "0.7605",
+    "volume": "131.497M",
+    "vol24h": "402.396M",
+    "vol24hChange": "29.73%",
+    "signal": "Strong Buy",
+    "exchange": "BYBIT"
   },
   {
     "name": "AVAXUSDT.P",
-    "close": "13.156"
+    "close": "13.164",
+    "change": "1.61%",
+    "changeAbs": "0.208",
+    "high": "13.604",
+    "low": "12.891",
+    "volume": "7.641M",
+    "vol24h": "396.257M",
+    "vol24hChange": "132.14%",
+    "signal": "Buy",
+    "exchange": "BINANCE"
   },
   {
     "name": "ORDIUSDT.P",
-    "close": "20.198"
+    "close": "20.413",
+    "change": "6.09%",
+    "changeAbs": "1.171",
+    "high": "21.890",
+    "low": "18.453",
+    "volume": "5.033M",
+    "vol24h": "389.126M",
+    "vol24hChange": "70.27%",
+    "signal": "Strong Buy",
+    "exchange": "BYBIT"
   },
   {
     "name": "BTCUSDT",
-    "close": "36513.61"
+    "close": "36524.55",
+    "change": "−0.46%",
+    "changeAbs": "−167.09",
+    "high": "36917.12",
+    "low": "36336.42",
+    "volume": "1.274K",
+    "vol24h": "387.565M",
+    "vol24hChange": "63.75%",
+    "signal": "Buy",
+    "exchange": "WHITEBIT"
   },
   {
     "name": "ETHUSDT",
-    "close": "2098.25"
+    "close": "2099.26",
+    "change": "−1.02%",
+    "changeAbs": "−21.58",
+    "high": "2136.36",
+    "low": "2082.36",
+    "volume": "72.448K",
+    "vol24h": "385.279M",
+    "vol24hChange": "156.36%",
+    "signal": "Buy",
+    "exchange": "BITGET"
   },
   {
     "name": "BTCKRW",
-    "close": "49108000"
+    "close": "49155000",
+    "change": "−0.50%",
+    "changeAbs": "−245000",
+    "high": "49623000",
+    "low": "48759000",
+    "volume": "2.253K",
+    "vol24h": "381.573M",
+    "vol24hChange": "99.08%",
+    "signal": "Buy",
+    "exchange": "UPBIT"
   },
   {
     "name": "USDTUSD",
-    "close": "1.00009"
+    "close": "1.00008",
+    "change": "−0.00%",
+    "changeAbs": "−0.00002",
+    "high": "1.00024",
+    "low": "0.99998",
+    "volume": "69.125M",
+    "vol24h": "374.644M",
+    "vol24hChange": "50.75%",
+    "signal": "Sell",
+    "exchange": "COINBASE"
   },
   {
     "name": "STORJUSDT.P",
-    "close": "0.8530"
+    "close": "0.8594",
+    "change": "9.63%",
+    "changeAbs": "0.0755",
+    "high": "0.9567",
+    "low": "0.7597",
+    "volume": "114.96M",
+    "vol24h": "374.624M",
+    "vol24hChange": "1.08%",
+    "signal": "Strong Buy",
+    "exchange": "OKX"
   },
   {
     "name": "GASUSDT",
-    "close": "27.829"
+    "close": "28.427",
+    "change": "31.33%",
+    "changeAbs": "6.781",
+    "high": "29.906",
+    "low": "20.827",
+    "volume": "5.843M",
+    "vol24h": "373.25M",
+    "vol24hChange": "110.89%",
+    "signal": "Strong Buy",
+    "exchange": "BINANCE"
   },
   {
     "name": "ETHUSD.P",
-    "close": "2101.25"
+    "close": "2101.55",
+    "change": "−0.96%",
+    "changeAbs": "−20.35",
+    "high": "2139.00",
+    "low": "2083.60",
+    "volume": "72.38M",
+    "vol24h": "371.475M",
+    "vol24hChange": "223.73%",
+    "signal": "Buy",
+    "exchange": "BYBIT"
   },
   {
     "name": "BNBUSDT",
-    "close": "252.4"
+    "close": "252.7",
+    "change": "0.48%",
+    "changeAbs": "1.2",
+    "high": "258.0",
+    "low": "249.5",
+    "volume": "432.378K",
+    "vol24h": "361.949M",
+    "vol24hChange": "139.48%",
+    "signal": "Buy",
+    "exchange": "BINANCE"
   },
   {
     "name": "ETCKRW",
-    "close": "28520.0"
+    "close": "28430.0",
+    "change": "1.83%",
+    "changeAbs": "510.0",
+    "high": "29720.0",
+    "low": "27830.0",
+    "volume": "6.62M",
+    "vol24h": "352.128M",
+    "vol24hChange": "925.98%",
+    "signal": "Buy",
+    "exchange": "UPBIT"
   },
   {
     "name": "ETHUSD",
-    "close": "2098.40"
+    "close": "2098.94",
+    "change": "−1.03%",
+    "changeAbs": "−21.84",
+    "high": "2136.69",
+    "low": "2083.87",
+    "volume": "38.89K",
+    "vol24h": "351M",
+    "vol24hChange": "425.63%",
+    "signal": "Buy",
+    "exchange": "BINANCE"
+  },
+  {
+    "name": "ETHBTC",
+    "close": "0.05748",
+    "change": "−0.54%",
+    "changeAbs": "−0.00031",
+    "high": "0.05821",
+    "low": "0.05731",
+    "volume": "38.891K",
+    "vol24h": "341.303M",
+    "vol24hChange": "418.31%",
+    "signal": "Buy",
+    "exchange": "BINANCE"
+  },
+  {
+    "name": "BTCUSDT",
+    "close": "36521.10",
+    "change": "−0.48%",
+    "changeAbs": "−175.72",
+    "high": "36917.63",
+    "low": "36330.64",
+    "volume": "3.165K",
+    "vol24h": "340.087M",
+    "vol24hChange": "−8.74%",
+    "signal": "Buy",
+    "exchange": "MEXC"
   },
   {
     "name": "MEMEUSDT.P",
-    "close": "0.019888"
-  },
-  {
-    "name": "ETHBTC",
-    "close": "0.05745"
-  },
-  {
-    "name": "BTCUSDT",
-    "close": "36516.30"
+    "close": "0.019716",
+    "change": "1.52%",
+    "changeAbs": "0.000296",
+    "high": "0.021717",
+    "low": "0.018958",
+    "volume": "3.72B",
+    "vol24h": "338.121M",
+    "vol24hChange": "33.74%",
+    "exchange": "BINANCE"
   },
   {
     "name": "LTCUSDT.P",
-    "close": "72.71"
-  },
-  {
-    "name": "SOLUSDT",
-    "close": "47.16"
+    "close": "72.69",
+    "change": "−1.53%",
+    "changeAbs": "−1.13",
+    "high": "75.50",
+    "low": "71.75",
+    "volume": "73.358M",
+    "vol24h": "335.999M",
+    "vol24hChange": "191.51%",
+    "signal": "Buy",
+    "exchange": "OKX"
   },
   {
     "name": "DOTUSDT.P",
-    "close": "5.066"
+    "close": "5.069",
+    "change": "−0.37%",
+    "changeAbs": "−0.019",
+    "high": "5.213",
+    "low": "5.000",
+    "volume": "12.235M",
+    "vol24h": "313.361M",
+    "vol24hChange": "75.15%",
+    "signal": "Buy",
+    "exchange": "BINANCE"
   },
   {
     "name": "INJUSDT.P",
-    "close": "15.996"
+    "close": "15.923",
+    "change": "−3.04%",
+    "changeAbs": "−0.499",
+    "high": "16.569",
+    "low": "15.711",
+    "volume": "3.759M",
+    "vol24h": "313M",
+    "vol24hChange": "78.69%",
+    "signal": "Buy",
+    "exchange": "BINANCE"
   },
   {
     "name": "STORJKRW",
-    "close": "1150.0"
+    "close": "1150.0",
+    "change": "9.52%",
+    "changeAbs": "100.0",
+    "high": "1280.0",
+    "low": "1020.0",
+    "volume": "129.048M",
+    "vol24h": "312.44M",
+    "vol24hChange": "19.83%",
+    "signal": "Strong Buy",
+    "exchange": "UPBIT"
   },
   {
-    "name": "ARKUSDT.P",
-    "close": "1.7371"
+    "name": "SOLUSDT",
+    "close": "47.16",
+    "change": "4.20%",
+    "changeAbs": "1.90",
+    "high": "48.86",
+    "low": "45.06",
+    "volume": "1.789M",
+    "vol24h": "312.413M",
+    "vol24hChange": "115.02%",
+    "signal": "Buy",
+    "exchange": "MEXC"
   },
   {
     "name": "LOOMUSDT.P",
-    "close": "0.1407"
+    "close": "0.1418",
+    "change": "17.97%",
+    "changeAbs": "0.0216",
+    "high": "0.1456",
+    "low": "0.1181",
+    "volume": "1.1B",
+    "vol24h": "308.946M",
+    "vol24hChange": "287.60%",
+    "signal": "Buy",
+    "exchange": "BINANCE"
   },
   {
     "name": "BTCUSDC",
-    "close": "36513.87"
+    "close": "36510.00",
+    "change": "−0.51%",
+    "changeAbs": "−186.01",
+    "high": "36925.66",
+    "low": "36320.47",
+    "volume": "1.245K",
+    "vol24h": "303.55M",
+    "vol24hChange": "26.91%",
+    "signal": "Buy",
+    "exchange": "BYBIT"
   },
   {
     "name": "TRBUSDT.P",
-    "close": "95.124"
+    "close": "94.501",
+    "change": "−9.82%",
+    "changeAbs": "−10.296",
+    "high": "105.290",
+    "low": "91.646",
+    "volume": "530.64K",
+    "vol24h": "296.748M",
+    "vol24hChange": "184.13%",
+    "signal": "Neutral",
+    "exchange": "BITGET"
+  },
+  {
+    "name": "ARKUSDT.P",
+    "close": "1.7487",
+    "change": "14.93%",
+    "changeAbs": "0.2271",
+    "high": "1.7530",
+    "low": "1.4722",
+    "volume": "64.343M",
+    "vol24h": "296.089M",
+    "vol24hChange": "−23.88%",
+    "signal": "Strong Buy",
+    "exchange": "BINANCE"
   },
   {
     "name": "BLURUSDT.P",
-    "close": "0.3862"
+    "close": "0.3850",
+    "change": "−0.72%",
+    "changeAbs": "−0.0028",
+    "high": "0.4126",
+    "low": "0.3739",
+    "volume": "223.382M",
+    "vol24h": "295.128M",
+    "vol24hChange": "18.10%",
+    "signal": "Buy",
+    "exchange": "BINANCE"
   },
   {
     "name": "NEOKRW",
-    "close": "18740.0"
+    "close": "18710.0",
+    "change": "8.91%",
+    "changeAbs": "1530.0",
+    "high": "20450.0",
+    "low": "16810.0",
+    "volume": "9.681M",
+    "vol24h": "292.167M",
+    "vol24hChange": "563.25%",
+    "signal": "Strong Buy",
+    "exchange": "UPBIT"
   },
   {
     "name": "RUNEUSDT.P",
-    "close": "3.838"
+    "close": "3.829",
+    "change": "−2.55%",
+    "changeAbs": "−0.100",
+    "high": "3.987",
+    "low": "3.772",
+    "volume": "11.668M",
+    "vol24h": "290.76M",
+    "vol24hChange": "202.75%",
+    "signal": "Buy",
+    "exchange": "BINANCE"
   },
   {
     "name": "ETHBTC",
-    "close": "0.057460"
+    "close": "0.057484",
+    "change": "4.67%",
+    "changeAbs": "0.002564",
+    "high": "0.058150",
+    "low": "0.054540",
+    "volume": "98.209K",
+    "vol24h": "290.004M",
+    "vol24hChange": "310.15%",
+    "signal": "Buy",
+    "exchange": "BITRUE"
   },
   {
     "name": "SUIUSDT.P",
-    "close": "0.5542"
+    "close": "0.5537",
+    "change": "−1.34%",
+    "changeAbs": "−0.0075",
+    "high": "0.5713",
+    "low": "0.5379",
+    "volume": "109.797M",
+    "vol24h": "283.896M",
+    "vol24hChange": "−20.35%",
+    "signal": "Buy",
+    "exchange": "BINANCE"
   },
   {
     "name": "ETHBTC",
-    "close": "0.057449"
+    "close": "0.057490",
+    "change": "−0.53%",
+    "changeAbs": "−0.000308",
+    "high": "0.058178",
+    "low": "0.057320",
+    "volume": "17.214K",
+    "vol24h": "283.805M",
+    "vol24hChange": "460.45%",
+    "signal": "Buy",
+    "exchange": "WHITEBIT"
   },
   {
     "name": "FDUSDUSDT",
-    "close": "0.9990"
+    "close": "0.9991",
+    "change": "0.00%",
+    "changeAbs": "0.0000",
+    "high": "0.9995",
+    "low": "0.9988",
+    "volume": "73.108M",
+    "vol24h": "282.634M",
+    "vol24hChange": "85.11%",
+    "signal": "Sell",
+    "exchange": "BINANCE"
   },
   {
     "name": "ARBUSDT.P",
-    "close": "1.1662"
+    "close": "1.1653",
+    "change": "−3.77%",
+    "changeAbs": "−0.0456",
+    "high": "1.2258",
+    "low": "1.1480",
+    "volume": "66.909M",
+    "vol24h": "281.758M",
+    "vol24hChange": "236.74%",
+    "signal": "Buy",
+    "exchange": "OKX"
   },
   {
     "name": "DOGEUSDT.P",
-    "close": "0.07408"
+    "close": "0.07415",
+    "change": "0.75%",
+    "changeAbs": "0.00055",
+    "high": "0.07505",
+    "low": "0.07317",
+    "volume": "586.551M",
+    "vol24h": "278.983M",
+    "vol24hChange": "69.73%",
+    "signal": "Buy",
+    "exchange": "BYBIT"
   },
   {
     "name": "LINKUSDT.P",
-    "close": "14.634"
+    "close": "14.616",
+    "change": "0.14%",
+    "changeAbs": "0.021",
+    "high": "14.957",
+    "low": "14.119",
+    "volume": "63.185M",
+    "vol24h": "277.336M",
+    "vol24hChange": "37.19%",
+    "signal": "Buy",
+    "exchange": "BLOFIN"
   },
   {
     "name": "ETCUSDT.P",
-    "close": "21.190"
-  },
-  {
-    "name": "GASUSDT.P",
-    "close": "26.867"
+    "close": "21.170",
+    "change": "2.40%",
+    "changeAbs": "0.497",
+    "high": "21.846",
+    "low": "20.680",
+    "volume": "94.407M",
+    "vol24h": "272.677M",
+    "vol24hChange": "492.05%",
+    "signal": "Buy",
+    "exchange": "OKX"
   },
   {
     "name": "ORDIUSDT",
-    "close": "20.301"
+    "close": "20.441",
+    "change": "6.57%",
+    "changeAbs": "1.261",
+    "high": "21.850",
+    "low": "18.500",
+    "volume": "4.289M",
+    "vol24h": "271.148M",
+    "vol24hChange": "115.64%",
+    "exchange": "BINANCE"
+  },
+  {
+    "name": "GASUSDT.P",
+    "close": "27.438",
+    "change": "27.03%",
+    "changeAbs": "5.838",
+    "high": "28.608",
+    "low": "20.798",
+    "volume": "110.224M",
+    "vol24h": "270.674M",
+    "vol24hChange": "79.45%",
+    "signal": "Strong Buy",
+    "exchange": "BLOFIN"
   },
   {
     "name": "OPUSDT.P",
-    "close": "1.7180"
+    "close": "1.7180",
+    "change": "−1.41%",
+    "changeAbs": "−0.0245",
+    "high": "1.8088",
+    "low": "1.6830",
+    "volume": "74.842M",
+    "vol24h": "269.226M",
+    "vol24hChange": "328.51%",
+    "signal": "Buy",
+    "exchange": "OKX"
   },
   {
     "name": "LTCUSDT.P",
-    "close": "72.68"
+    "close": "72.71",
+    "change": "−1.50%",
+    "changeAbs": "−1.11",
+    "high": "75.48",
+    "low": "71.77",
+    "volume": "65.174M",
+    "vol24h": "268.041M",
+    "vol24hChange": "220.54%",
+    "signal": "Buy",
+    "exchange": "BLOFIN"
   },
   {
     "name": "APTUSDT.P",
-    "close": "7.350"
+    "close": "7.350",
+    "change": "0.82%",
+    "changeAbs": "0.060",
+    "high": "7.594",
+    "low": "7.229",
+    "volume": "11.27M",
+    "vol24h": "264.506M",
+    "vol24hChange": "94.15%",
+    "signal": "Buy",
+    "exchange": "BINANCE"
   },
   {
     "name": "APEUSDT.P",
-    "close": "1.383"
+    "close": "1.381",
+    "change": "−0.43%",
+    "changeAbs": "−0.006",
+    "high": "1.425",
+    "low": "1.355",
+    "volume": "42.681M",
+    "vol24h": "262.303M",
+    "vol24hChange": "104.72%",
+    "signal": "Buy",
+    "exchange": "BINANCE"
   },
   {
     "name": "LINKUSDT",
-    "close": "14.636"
+    "close": "14.621",
+    "change": "0.12%",
+    "changeAbs": "0.018",
+    "high": "14.952",
+    "low": "14.122",
+    "volume": "4.056M",
+    "vol24h": "261.03M",
+    "vol24hChange": "30.40%",
+    "signal": "Buy",
+    "exchange": "BINANCE"
   },
   {
     "name": "BCHUSDT.P",
-    "close": "238.40"
+    "close": "238.30",
+    "change": "−0.72%",
+    "changeAbs": "−1.74",
+    "high": "242.82",
+    "low": "235.50",
+    "volume": "45.05M",
+    "vol24h": "258.599M",
+    "vol24hChange": "78.79%",
+    "signal": "Neutral",
+    "exchange": "OKX"
   },
   {
     "name": "HIFIUSDT.P",
-    "close": "1.18483"
+    "close": "1.16187",
+    "change": "27.52%",
+    "changeAbs": "0.25071",
+    "high": "1.23510",
+    "low": "0.86791",
+    "volume": "104.349M",
+    "vol24h": "258.118M",
+    "vol24hChange": "637.73%",
+    "signal": "Strong Buy",
+    "exchange": "BYBIT"
   },
   {
     "name": "MATICUSDT.P",
-    "close": "0.8254"
-  },
-  {
-    "name": "ATOMUSDT.P",
-    "close": "9.089"
+    "close": "0.8248",
+    "change": "−3.61%",
+    "changeAbs": "−0.0309",
+    "high": "0.8634",
+    "low": "0.8139",
+    "volume": "54.702M",
+    "vol24h": "249.822M",
+    "vol24hChange": "44.03%",
+    "signal": "Buy",
+    "exchange": "BYBIT"
   },
   {
     "name": "DOGEUSDT.P",
-    "close": "0.07397"
+    "close": "0.07407",
+    "change": "0.78%",
+    "changeAbs": "0.00057",
+    "high": "0.07492",
+    "low": "0.07307",
+    "volume": "54.666M",
+    "vol24h": "247.583M",
+    "vol24hChange": "60.97%",
+    "signal": "Buy",
+    "exchange": "BLOFIN"
   },
   {
-    "name": "1000SHIBUSDT.P",
-    "close": "0.008271"
+    "name": "ATOMUSDT.P",
+    "close": "9.096",
+    "change": "0.79%",
+    "changeAbs": "0.071",
+    "high": "9.310",
+    "low": "8.920",
+    "volume": "8.616M",
+    "vol24h": "247.555M",
+    "vol24hChange": "70.39%",
+    "signal": "Strong Buy",
+    "exchange": "BINANCE"
   },
   {
     "name": "ARBUSDT.P",
-    "close": "1.1682"
+    "close": "1.1667",
+    "change": "−3.55%",
+    "changeAbs": "−0.0430",
+    "high": "1.2273",
+    "low": "1.1495",
+    "volume": "45.483M",
+    "vol24h": "245.314M",
+    "vol24hChange": "233.49%",
+    "signal": "Buy",
+    "exchange": "BYBIT"
+  },
+  {
+    "name": "1000SHIBUSDT.P",
+    "close": "0.008278",
+    "change": "0.56%",
+    "changeAbs": "0.000046",
+    "high": "0.008519",
+    "low": "0.008164",
+    "volume": "7.078B",
+    "vol24h": "245.159M",
+    "vol24hChange": "61.00%",
+    "signal": "Buy",
+    "exchange": "BINANCE"
+  },
+  {
+    "name": "XRPUSDT.P",
+    "close": "0.6532",
+    "change": "−2.00%",
+    "changeAbs": "−0.0133",
+    "high": "0.6716",
+    "low": "0.6447",
+    "volume": "52.105M",
+    "vol24h": "241.013M",
+    "vol24hChange": "33.18%",
+    "signal": "Buy",
+    "exchange": "BLOFIN"
   },
   {
     "name": "PEPEUSDT.P",
-    "close": "0.0000012900"
-  },
-  {
-    "name": "XRPUSDT.P",
-    "close": "0.6525"
+    "close": "0.0000012800",
+    "change": "−3.65%",
+    "changeAbs": "−0.0000000500",
+    "high": "0.0000013700",
+    "low": "0.0000012600",
+    "volume": "47.735M",
+    "vol24h": "240.557M",
+    "vol24hChange": "100.44%",
+    "signal": "Buy",
+    "exchange": "OKX"
   },
   {
     "name": "BTCUSD",
-    "close": "36506.4"
+    "close": "36515.5",
+    "change": "−0.49%",
+    "changeAbs": "−178.9",
+    "high": "36907.0",
+    "low": "36340.1",
+    "volume": "1.016K",
+    "vol24h": "239.008M",
+    "vol24hChange": "55.89%",
+    "signal": "Buy",
+    "exchange": "KRAKEN"
   },
   {
     "name": "BTCKRW",
-    "close": "49093000"
+    "close": "49100000",
+    "change": "−0.56%",
+    "changeAbs": "−278000",
+    "high": "49539000",
+    "low": "48760000",
+    "volume": "1.638K",
+    "vol24h": "237.039M",
+    "vol24hChange": "40.66%",
+    "signal": "Buy",
+    "exchange": "BITHUMB"
   },
   {
     "name": "FILUSDT.P",
-    "close": "4.448"
-  },
-  {
-    "name": "GALAUSDT.P",
-    "close": "0.02327"
+    "close": "4.451",
+    "change": "−1.11%",
+    "changeAbs": "−0.050",
+    "high": "4.656",
+    "low": "4.373",
+    "volume": "15.174M",
+    "vol24h": "235.155M",
+    "vol24hChange": "60.62%",
+    "signal": "Buy",
+    "exchange": "BINANCE"
   },
   {
     "name": "DYDXUSDT.P",
-    "close": "2.630"
-  },
-  {
-    "name": "ETHUSDT",
-    "close": "2097.31"
-  },
-  {
-    "name": "BTCUSDT",
-    "close": "36522.9"
-  },
-  {
-    "name": "BLURUSDT.P",
-    "close": "0.3855"
-  },
-  {
-    "name": "FTMUSDT.P",
-    "close": "0.2672"
-  },
-  {
-    "name": "XRPUSDT.P",
-    "close": "0.65258"
-  },
-  {
-    "name": "BADGERUSDT.P",
-    "close": "4.475"
-  },
-  {
-    "name": "TONKRW",
-    "close": "3985.0"
-  },
-  {
-    "name": "NEARUSDT.P",
-    "close": "1.428"
-  },
-  {
-    "name": "ETHKRW",
-    "close": "2822000"
-  },
-  {
-    "name": "BTCUSD29Z2023",
-    "close": "37027.0"
-  },
-  {
-    "name": "FTTUSDT",
-    "close": "2.8328"
+    "close": "2.631",
+    "change": "3.62%",
+    "changeAbs": "0.092",
+    "high": "2.691",
+    "low": "2.440",
+    "volume": "32.179M",
+    "vol24h": "234.719M",
+    "vol24hChange": "53.97%",
+    "signal": "Strong Buy",
+    "exchange": "BINANCE"
   },
   {
     "name": "GALAUSDT.P",
-    "close": "0.02325"
+    "close": "0.02331",
+    "change": "−2.51%",
+    "changeAbs": "−0.00060",
+    "high": "0.02475",
+    "low": "0.02277",
+    "volume": "1.858B",
+    "vol24h": "234.452M",
+    "vol24hChange": "40.94%",
+    "signal": "Buy",
+    "exchange": "BYBIT"
   },
   {
-    "name": "GMTUSDT.P",
-    "close": "0.2219"
+    "name": "ETHUSDT",
+    "close": "2098.43",
+    "change": "−1.08%",
+    "changeAbs": "−22.83",
+    "high": "2136.41",
+    "low": "2083.44",
+    "volume": "45.629K",
+    "vol24h": "226.322M",
+    "vol24hChange": "14.01%",
+    "signal": "Buy",
+    "exchange": "MEXC"
+  },
+  {
+    "name": "BTCUSDT",
+    "close": "36503.2",
+    "change": "−0.52%",
+    "changeAbs": "−189.4",
+    "high": "36916.0",
+    "low": "36324.4",
+    "volume": "742",
+    "vol24h": "223.958M",
+    "vol24hChange": "34.14%",
+    "signal": "Buy",
+    "exchange": "KUCOIN"
+  },
+  {
+    "name": "BLURUSDT.P",
+    "close": "0.3838",
+    "change": "−0.80%",
+    "changeAbs": "−0.0031",
+    "high": "0.4123",
+    "low": "0.3742",
+    "volume": "62.865M",
+    "vol24h": "222.324M",
+    "vol24hChange": "35.30%",
+    "signal": "Buy",
+    "exchange": "OKX"
+  },
+  {
+    "name": "FTMUSDT.P",
+    "close": "0.2679",
+    "change": "3.16%",
+    "changeAbs": "0.0082",
+    "high": "0.2795",
+    "low": "0.2581",
+    "volume": "226.811M",
+    "vol24h": "222.209M",
+    "vol24hChange": "52.74%",
+    "signal": "Buy",
+    "exchange": "BINANCE"
+  },
+  {
+    "name": "TONKRW",
+    "close": "3985.0",
+    "change": "16.52%",
+    "changeAbs": "565.0",
+    "high": "4225.0",
+    "low": "3315.0",
+    "volume": "54.792M",
+    "vol24h": "221.855M",
+    "vol24hChange": "117.21%",
+    "signal": "Strong Buy",
+    "exchange": "UPBIT"
+  },
+  {
+    "name": "XRPUSDT.P",
+    "close": "0.65366",
+    "change": "−1.99%",
+    "changeAbs": "−0.01325",
+    "high": "0.67157",
+    "low": "0.64500",
+    "volume": "66.37M",
+    "vol24h": "221.841M",
+    "vol24hChange": "46.80%",
+    "signal": "Buy",
+    "exchange": "BITGET"
+  },
+  {
+    "name": "BADGERUSDT.P",
+    "close": "4.497",
+    "change": "−12.54%",
+    "changeAbs": "−0.645",
+    "high": "5.756",
+    "low": "4.252",
+    "volume": "63.138M",
+    "vol24h": "221.4M",
+    "vol24hChange": "489.59%",
+    "signal": "Buy",
+    "exchange": "OKX"
+  },
+  {
+    "name": "NEARUSDT.P",
+    "close": "1.428",
+    "change": "−0.56%",
+    "changeAbs": "−0.008",
+    "high": "1.493",
+    "low": "1.400",
+    "volume": "36.757M",
+    "vol24h": "220.525M",
+    "vol24hChange": "69.19%",
+    "signal": "Buy",
+    "exchange": "BINANCE"
+  },
+  {
+    "name": "ETHKRW",
+    "close": "2825000",
+    "change": "−1.09%",
+    "changeAbs": "−31000",
+    "high": "2875000",
+    "low": "2793000",
+    "volume": "28.962K",
+    "vol24h": "219.289M",
+    "vol24hChange": "447.22%",
+    "signal": "Buy",
+    "exchange": "UPBIT"
+  },
+  {
+    "name": "BTCUSD29Z2023",
+    "close": "37009.0",
+    "change": "−0.53%",
+    "changeAbs": "−195.4",
+    "high": "37432.8",
+    "low": "36851.1",
+    "volume": "19.799M",
+    "vol24h": "219.179M",
+    "vol24hChange": "43.79%",
+    "signal": "Buy",
+    "exchange": "OKX"
+  },
+  {
+    "name": "FTTUSDT",
+    "close": "2.8146",
+    "change": "28.43%",
+    "changeAbs": "0.6231",
+    "high": "3.1500",
+    "low": "2.0884",
+    "volume": "40.751M",
+    "vol24h": "218.169M",
+    "vol24hChange": "81.95%",
+    "signal": "Buy",
+    "exchange": "BINANCE"
+  },
+  {
+    "name": "GALAUSDT.P",
+    "close": "0.02327",
+    "change": "−2.51%",
+    "changeAbs": "−0.00060",
+    "high": "0.02475",
+    "low": "0.02272",
+    "volume": "54.876M",
+    "vol24h": "215.657M",
+    "vol24hChange": "23.74%",
+    "signal": "Buy",
+    "exchange": "OKX"
   },
   {
     "name": "SOLKRW",
-    "close": "64370.0"
+    "close": "64360.0",
+    "change": "4.62%",
+    "changeAbs": "2840.0",
+    "high": "66720.0",
+    "low": "60920.0",
+    "volume": "1.251M",
+    "vol24h": "214.92M",
+    "vol24hChange": "228.26%",
+    "signal": "Buy",
+    "exchange": "UPBIT"
+  },
+  {
+    "name": "GMTUSDT.P",
+    "close": "0.2214",
+    "change": "−0.32%",
+    "changeAbs": "−0.0007",
+    "high": "0.2287",
+    "low": "0.2164",
+    "volume": "255.724M",
+    "vol24h": "214.753M",
+    "vol24hChange": "71.26%",
+    "signal": "Buy",
+    "exchange": "BINANCE"
   },
   {
     "name": "DOGEUSDT",
-    "close": "0.07398"
+    "close": "0.07406",
+    "change": "0.71%",
+    "changeAbs": "0.00052",
+    "high": "0.07498",
+    "low": "0.07313",
+    "volume": "683.159M",
+    "vol24h": "210.5M",
+    "vol24hChange": "68.07%",
+    "signal": "Buy",
+    "exchange": "BINANCE"
   },
   {
     "name": "XRPUSD.P",
-    "close": "0.6530"
+    "close": "0.6541",
+    "change": "−1.99%",
+    "changeAbs": "−0.0133",
+    "high": "0.6716",
+    "low": "0.6453",
+    "volume": "26.347M",
+    "vol24h": "208.888M",
+    "vol24hChange": "118.19%",
+    "signal": "Buy",
+    "exchange": "BYBIT"
   }
 ]
