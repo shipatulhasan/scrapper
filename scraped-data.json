@@ -1,0 +1,602 @@
+[
+  {
+    "name": "BTCUSDT.P",
+    "close": "36549.3"
+  },
+  {
+    "name": "ETHUSDT.P",
+    "close": "2100.60"
+  },
+  {
+    "name": "ETHUSDT.P",
+    "close": "2099.33"
+  },
+  {
+    "name": "BTCUSDT.P",
+    "close": "36565.7"
+  },
+  {
+    "name": "BTCUSDT.P",
+    "close": "36530.5"
+  },
+  {
+    "name": "ETHUSDT.P",
+    "close": "2100.54"
+  },
+  {
+    "name": "BTCUSDT.P",
+    "close": "36543.2"
+  },
+  {
+    "name": "GASUSDT.P",
+    "close": "27.074"
+  },
+  {
+    "name": "SOLUSDT.P",
+    "close": "47.236"
+  },
+  {
+    "name": "ETHUSDT.P",
+    "close": "2099.38"
+  },
+  {
+    "name": "BTCUSDT",
+    "close": "36516.01"
+  },
+  {
+    "name": "BTCUSDT.P",
+    "close": "36558.8"
+  },
+  {
+    "name": "ETHUSDT",
+    "close": "2097.99"
+  },
+  {
+    "name": "TRBUSDT.P",
+    "close": "95.284"
+  },
+  {
+    "name": "XRPUSDT.P",
+    "close": "0.6530"
+  },
+  {
+    "name": "BTCUSDT.P",
+    "close": "36508.0"
+  },
+  {
+    "name": "SOLUSDT.P",
+    "close": "47.320"
+  },
+  {
+    "name": "GASUSDT.P",
+    "close": "26.650"
+  },
+  {
+    "name": "ETHUSDT.P",
+    "close": "2100.46"
+  },
+  {
+    "name": "ORDIUSDT.P",
+    "close": "20.294"
+  },
+  {
+    "name": "BTCUSD.P",
+    "close": "36560.5"
+  },
+  {
+    "name": "LINKUSDT.P",
+    "close": "14.672"
+  },
+  {
+    "name": "GASUSDT.P",
+    "close": "27.175"
+  },
+  {
+    "name": "TRBUSDT.P",
+    "close": "95.660"
+  },
+  {
+    "name": "STORJUSDT.P",
+    "close": "0.8564"
+  },
+  {
+    "name": "BTCUSD.P",
+    "close": "36547.5"
+  },
+  {
+    "name": "ORDIUSDT.P",
+    "close": "20.181"
+  },
+  {
+    "name": "ETHUSD.P",
+    "close": "2099.1"
+  },
+  {
+    "name": "BTCUSD.P",
+    "close": "36527.4"
+  },
+  {
+    "name": "ETHUSD.P",
+    "close": "2099.06"
+  },
+  {
+    "name": "GASKRW",
+    "close": "37450.0"
+  },
+  {
+    "name": "ETHUSDT.P",
+    "close": "2098.90"
+  },
+  {
+    "name": "SOLUSDT.P",
+    "close": "47.270"
+  },
+  {
+    "name": "ETHUSD.P",
+    "close": "2099.50"
+  },
+  {
+    "name": "BTCUSDT",
+    "close": "36515.9"
+  },
+  {
+    "name": "ETHUSDT",
+    "close": "2098.21"
+  },
+  {
+    "name": "BTCUSDT",
+    "close": "36510.48"
+  },
+  {
+    "name": "BTCUSD.P",
+    "close": "36532"
+  },
+  {
+    "name": "DOGEUSDT.P",
+    "close": "0.07406"
+  },
+  {
+    "name": "1000PEPEUSDT.P",
+    "close": "0.0012867"
+  },
+  {
+    "name": "HIFIUSDT.P",
+    "close": "1.1798"
+  },
+  {
+    "name": "BTCUSDT",
+    "close": "36511.82"
+  },
+  {
+    "name": "XRPUSDT.P",
+    "close": "0.6532"
+  },
+  {
+    "name": "BTCUSD",
+    "close": "36521.30"
+  },
+  {
+    "name": "BTCBUSD.P",
+    "close": "36555.9"
+  },
+  {
+    "name": "ETHUSDT",
+    "close": "2098.17"
+  },
+  {
+    "name": "ETCUSDT.P",
+    "close": "21.222"
+  },
+  {
+    "name": "MATICUSDT.P",
+    "close": "0.8251"
+  },
+  {
+    "name": "BTCUSDT",
+    "close": "36517.39"
+  },
+  {
+    "name": "USDCUSDT",
+    "close": "0.9999"
+  },
+  {
+    "name": "ARBUSDT.P",
+    "close": "1.1671"
+  },
+  {
+    "name": "OPUSDT.P",
+    "close": "1.7193"
+  },
+  {
+    "name": "BNBUSDT.P",
+    "close": "252.62"
+  },
+  {
+    "name": "TRBUSDT.P",
+    "close": "95.280"
+  },
+  {
+    "name": "SOLUSDT",
+    "close": "47.20"
+  },
+  {
+    "name": "ETHUSDT",
+    "close": "2098.61"
+  },
+  {
+    "name": "SOLUSDT.P",
+    "close": "47.240"
+  },
+  {
+    "name": "NEOUSDT.P",
+    "close": "13.942"
+  },
+  {
+    "name": "ETHUSD",
+    "close": "2098.67"
+  },
+  {
+    "name": "GALAUSDT.P",
+    "close": "0.02328"
+  },
+  {
+    "name": "XRPUSDT",
+    "close": "0.6522"
+  },
+  {
+    "name": "ADAUSDT.P",
+    "close": "0.3773"
+  },
+  {
+    "name": "LINKUSDT.P",
+    "close": "14.636"
+  },
+  {
+    "name": "XRPUSDT.P",
+    "close": "0.65270"
+  },
+  {
+    "name": "HIFIKRW",
+    "close": "1590.0"
+  },
+  {
+    "name": "BCHUSDT.P",
+    "close": "238.25"
+  },
+  {
+    "name": "ETHBUSD.P",
+    "close": "2100.75"
+  },
+  {
+    "name": "LTCUSDT.P",
+    "close": "72.75"
+  },
+  {
+    "name": "XRPKRW",
+    "close": "878.0"
+  },
+  {
+    "name": "1000PEPEUSDT.P",
+    "close": "0.0012871"
+  },
+  {
+    "name": "ETHUSDT",
+    "close": "2097.97"
+  },
+  {
+    "name": "LINKUSDT.P",
+    "close": "14.661"
+  },
+  {
+    "name": "ETHUSDC",
+    "close": "2098.57"
+  },
+  {
+    "name": "LDOUSDT.P",
+    "close": "2.3937"
+  },
+  {
+    "name": "BTCUSDT",
+    "close": "36515.0"
+  },
+  {
+    "name": "DOGEUSDT.P",
+    "close": "0.07402"
+  },
+  {
+    "name": "ETHUSDT",
+    "close": "2098.15"
+  },
+  {
+    "name": "STORJUSDT.P",
+    "close": "0.8540"
+  },
+  {
+    "name": "AVAXUSDT.P",
+    "close": "13.156"
+  },
+  {
+    "name": "ORDIUSDT.P",
+    "close": "20.198"
+  },
+  {
+    "name": "BTCUSDT",
+    "close": "36513.61"
+  },
+  {
+    "name": "ETHUSDT",
+    "close": "2098.25"
+  },
+  {
+    "name": "BTCKRW",
+    "close": "49108000"
+  },
+  {
+    "name": "USDTUSD",
+    "close": "1.00009"
+  },
+  {
+    "name": "STORJUSDT.P",
+    "close": "0.8530"
+  },
+  {
+    "name": "GASUSDT",
+    "close": "27.829"
+  },
+  {
+    "name": "ETHUSD.P",
+    "close": "2101.25"
+  },
+  {
+    "name": "BNBUSDT",
+    "close": "252.4"
+  },
+  {
+    "name": "ETCKRW",
+    "close": "28520.0"
+  },
+  {
+    "name": "ETHUSD",
+    "close": "2098.40"
+  },
+  {
+    "name": "MEMEUSDT.P",
+    "close": "0.019888"
+  },
+  {
+    "name": "ETHBTC",
+    "close": "0.05745"
+  },
+  {
+    "name": "BTCUSDT",
+    "close": "36516.30"
+  },
+  {
+    "name": "LTCUSDT.P",
+    "close": "72.71"
+  },
+  {
+    "name": "SOLUSDT",
+    "close": "47.16"
+  },
+  {
+    "name": "DOTUSDT.P",
+    "close": "5.066"
+  },
+  {
+    "name": "INJUSDT.P",
+    "close": "15.996"
+  },
+  {
+    "name": "STORJKRW",
+    "close": "1150.0"
+  },
+  {
+    "name": "ARKUSDT.P",
+    "close": "1.7371"
+  },
+  {
+    "name": "LOOMUSDT.P",
+    "close": "0.1407"
+  },
+  {
+    "name": "BTCUSDC",
+    "close": "36513.87"
+  },
+  {
+    "name": "TRBUSDT.P",
+    "close": "95.124"
+  },
+  {
+    "name": "BLURUSDT.P",
+    "close": "0.3862"
+  },
+  {
+    "name": "NEOKRW",
+    "close": "18740.0"
+  },
+  {
+    "name": "RUNEUSDT.P",
+    "close": "3.838"
+  },
+  {
+    "name": "ETHBTC",
+    "close": "0.057460"
+  },
+  {
+    "name": "SUIUSDT.P",
+    "close": "0.5542"
+  },
+  {
+    "name": "ETHBTC",
+    "close": "0.057449"
+  },
+  {
+    "name": "FDUSDUSDT",
+    "close": "0.9990"
+  },
+  {
+    "name": "ARBUSDT.P",
+    "close": "1.1662"
+  },
+  {
+    "name": "DOGEUSDT.P",
+    "close": "0.07408"
+  },
+  {
+    "name": "LINKUSDT.P",
+    "close": "14.634"
+  },
+  {
+    "name": "ETCUSDT.P",
+    "close": "21.190"
+  },
+  {
+    "name": "GASUSDT.P",
+    "close": "26.867"
+  },
+  {
+    "name": "ORDIUSDT",
+    "close": "20.301"
+  },
+  {
+    "name": "OPUSDT.P",
+    "close": "1.7180"
+  },
+  {
+    "name": "LTCUSDT.P",
+    "close": "72.68"
+  },
+  {
+    "name": "APTUSDT.P",
+    "close": "7.350"
+  },
+  {
+    "name": "APEUSDT.P",
+    "close": "1.383"
+  },
+  {
+    "name": "LINKUSDT",
+    "close": "14.636"
+  },
+  {
+    "name": "BCHUSDT.P",
+    "close": "238.40"
+  },
+  {
+    "name": "HIFIUSDT.P",
+    "close": "1.18483"
+  },
+  {
+    "name": "MATICUSDT.P",
+    "close": "0.8254"
+  },
+  {
+    "name": "ATOMUSDT.P",
+    "close": "9.089"
+  },
+  {
+    "name": "DOGEUSDT.P",
+    "close": "0.07397"
+  },
+  {
+    "name": "1000SHIBUSDT.P",
+    "close": "0.008271"
+  },
+  {
+    "name": "ARBUSDT.P",
+    "close": "1.1682"
+  },
+  {
+    "name": "PEPEUSDT.P",
+    "close": "0.0000012900"
+  },
+  {
+    "name": "XRPUSDT.P",
+    "close": "0.6525"
+  },
+  {
+    "name": "BTCUSD",
+    "close": "36506.4"
+  },
+  {
+    "name": "BTCKRW",
+    "close": "49093000"
+  },
+  {
+    "name": "FILUSDT.P",
+    "close": "4.448"
+  },
+  {
+    "name": "GALAUSDT.P",
+    "close": "0.02327"
+  },
+  {
+    "name": "DYDXUSDT.P",
+    "close": "2.630"
+  },
+  {
+    "name": "ETHUSDT",
+    "close": "2097.31"
+  },
+  {
+    "name": "BTCUSDT",
+    "close": "36522.9"
+  },
+  {
+    "name": "BLURUSDT.P",
+    "close": "0.3855"
+  },
+  {
+    "name": "FTMUSDT.P",
+    "close": "0.2672"
+  },
+  {
+    "name": "XRPUSDT.P",
+    "close": "0.65258"
+  },
+  {
+    "name": "BADGERUSDT.P",
+    "close": "4.475"
+  },
+  {
+    "name": "TONKRW",
+    "close": "3985.0"
+  },
+  {
+    "name": "NEARUSDT.P",
+    "close": "1.428"
+  },
+  {
+    "name": "ETHKRW",
+    "close": "2822000"
+  },
+  {
+    "name": "BTCUSD29Z2023",
+    "close": "37027.0"
+  },
+  {
+    "name": "FTTUSDT",
+    "close": "2.8328"
+  },
+  {
+    "name": "GALAUSDT.P",
+    "close": "0.02325"
+  },
+  {
+    "name": "GMTUSDT.P",
+    "close": "0.2219"
+  },
+  {
+    "name": "SOLKRW",
+    "close": "64370.0"
+  },
+  {
+    "name": "DOGEUSDT",
+    "close": "0.07398"
+  },
+  {
+    "name": "XRPUSD.P",
+    "close": "0.6530"
+  }
+]
